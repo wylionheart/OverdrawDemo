@@ -15,10 +15,10 @@ You can see Overdraw Scene on left bottom. But no red or green warring.
 ![](Readme/img4.png)
 
 2.Then add OverDrawRenderPipelineAsset_Renderer to your UniversalRenderPipelineAsset<br>
-![](Readme/img4.png)<br>
+![](Readme/img2.png)<br>
 
 3.Select OverdrawCameraPrefab : change renderer to OverDrawRenderPipelineAsset_Renderer<br>
-![](Readme/img4.png)<br>
+![](Readme/img3.png)<br>
 Then you can see 
 green:overdraw  >  50 
 Red:overdraw  >  75
